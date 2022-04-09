@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Background Color Changer",
   "version": "1.0.0",
-  "description": "Changes the background Color",
+  "description": "Changes the background Color, Rotate page options included",
   "icons": {
     "128": "icons128.png",
     "48": "icons48.png",

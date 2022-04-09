@@ -19,7 +19,7 @@ rotateEl.addEventListener("input", () => {
 
 rotate3DEl.addEventListener("input", () => {
   injectCSS(`body {
-            transform: rotate3d(1,1,1,${rotate3DEl.value}deg)!important;
+            transform: rotate3d(1,20,1,${rotate3DEl.value}deg)!important;
         }`);
 });
 
